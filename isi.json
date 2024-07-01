@@ -1,0 +1,24 @@
+{
+    "buttons": [
+        {
+            "title": "Github",
+            "link": "https://github.com/Rereyoz",
+            "icon": "fab fa-github"
+        },
+        {
+            "title": "Website Personal",
+            "link": "https://reyy.vercel.app",
+            "icon": "fab fa-google"
+        },
+        {
+            "title": "Instagram",
+            "link": "https://instagram.com/reyyalwayswin",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "WhatsApp",
+            "link": "https://wa.me/6285721908682",
+            "icon": "fab fa-whatsapp"
+        }
+    ]
+}
